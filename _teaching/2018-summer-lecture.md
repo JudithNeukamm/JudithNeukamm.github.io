@@ -2,7 +2,7 @@
 title: "Block curse: Evolutionary Medicine - Advanced Topics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2017-winter-seminar
+permalink: /teaching/2018-summer-lecture
 venue: "University of Zurich"
 date: 2018-04-01
 location: "Zurich, Switzerland"
