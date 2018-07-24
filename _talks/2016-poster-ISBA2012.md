@@ -3,10 +3,10 @@ title: "DamageProfiler: Calculation of damage patterns in next generation sequen
 DNA"
 collection: talks
 type: "Poster"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2016-poster-ISBA2012
 venue: "The Oxford University Museum of Natural History"
 date: 2016-09-15
 location: "Oxford, England"
 ---
 
-7th International Symposium on Biomolecular Archaeology (ISBA 2016).
+I presented the DamageProfiler, a tool for fast and efficient damage calculation at the 7th International Symposium on Biomolecular Archaeology (ISBA 2016).

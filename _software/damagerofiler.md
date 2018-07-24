@@ -12,9 +12,9 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 Recommended citation: 
 
-Judith Neukamm, & Alexander Peltzer. (2017, November 21). Integrative-Transcriptomics/DamageProfiler 0.3.9 (Version 0.3.9). 
+Judith Neukamm, & Alexander Peltzer. (2017, November 21). Integrative-Transcriptomics/DamageProfiler (Version 0.3.13). 
 Zenodo. http://doi.org/10.5281/zenodo.1064063
 
-Avaibalbe on Github:
+Available on Github:
 
 https://github.com/Integrative-Transcriptomics/DamageProfiler

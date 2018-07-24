@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Judith Neukamm's webpage"
 title_separator          : "-"
 name                     : &name "Judith Neukamm"
-description              : &description "PhD Student at University of Tuebingen, Tuebingen/Germany."
+description              : &description "PhD Student at University of Zurich, Zurich/Switzerland."
 url                      : https://JudithNeukamm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JudithNeukamm/JudithNeukamm.github.io"
@@ -80,10 +80,10 @@ author:
   name             : "Judith Neukamm"
   avatar           : "profile.jpeg"
   bio              : "PhD Student"
-  location         : "Tübingen, Germany"
+  location         : "Zurich, Switzerland"
   employer         : 
   googlescholar    : "https://scholar.google.de/citations?hl=en&user=kuDDrmAAAAAJ&view_op=list_works"
-  email            : "judith.neukamm@uni-tuebingen.de"
+  email            : "judith.neukamm@uzh.ch"
   uri              : 
   bitbucket        :
   codepen          :
