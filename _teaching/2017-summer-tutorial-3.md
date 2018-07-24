@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Archaeo- und Palaeogenetik II - Analysis of NGS data from ancient DNA"
+title: "Tutorial: Archaeo- und Palaeogenetik II - Analysis of NGS data from ancient DNA (SS 2017)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2017-summer-tutorial-3

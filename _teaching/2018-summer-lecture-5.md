@@ -1,5 +1,5 @@
 ---
-title: "Block curse: Evolutionary Medicine - Advanced Topics"
+title: "Block curse: Evolutionary Medicine - Advanced Topics (SS 2018)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-summer-lecture-5

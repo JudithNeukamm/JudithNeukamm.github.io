@@ -1,5 +1,5 @@
 ---
-title: "Seminar: Biologie für Archaeologen"
+title: "Seminar: Biologie für Archaeologen (WS 2017/2018)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-winter-seminar-4
