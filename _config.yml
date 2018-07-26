@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "JudithNeukamm"
   vine             :
   weibo            :
   xing             :
@@ -207,7 +207,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: single #Todo
       author_profile: true
       share: true
       comments: true

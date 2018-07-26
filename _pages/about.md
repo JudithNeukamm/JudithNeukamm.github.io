@@ -9,19 +9,18 @@ redirect_from:
 ---
 
 
-Hi, I'm Judith, a PhD student at the University of Tuebingen. 
+Hi, I'm Judith, a PhD student at the [Institute of Evolutionary Medicine](http://www.iem.uzh.ch/en/research/researchgroups/ancientbiomoleculargroup.html) 
+at the University of Zurich. 
 
-One of my research topics is on metagenomics, the study of genetic material recovered directly from environmental samples. 
-The main focus of my research is on the analysis of the oral metagenome of ancient individuals. This offers a deeper 
-insight into the microbial community, which inhabits the human oral cavity. 
-My current project is concerned with ancient mummies from middle Egypt, with the main focus on the bacterial composition 
-of the oral cavity. The aim of this project is to get a more detailed understanding how the oral metagenome evolved. 
-Moreover, ancient samples also offers a great opportunity to investigate pathogens that are contained in the 
-samples.
+One of my research topics is metagenomics, the investigation of genetic material obtained directly from samples without applying any capturing or enrichment methods. 
+My research focuses on the analysis of the ancient oral metagenome, which provides a deeper insight into the microbial community that inhabits the human oral cavity. 
+My current project deals with ancient mummies from Middle Egypt, with a focus on the bacterial composition of the oral cavity, but also how the bacterial composition differs considering different sample tissues. In addition, antique samples also offer a good opportunity to investigate pathogens contained in the samples.
   
 
-Another focus of my research is on the analysis of human mitochondrial DNA that is mainly used in population genetics. 
-This project includes the development of a mitochondrial workbench, with a main focus on easy file handling and conversion. 
-Moreover, it offers the functionality to combine, manipulate and visualize mitochondrial data. It also provides tools 
-for basic downstream analyses, e.g. PCA, Fst and Haplogroup determination. 
-  
+Another focus of my research is the analysis of human mitochondrial DNA, which is often used in population genetics. 
+This project involves the development of a mitochondrial workbench with a focus on the easy handling and conversion of files. 
+Furthermore, it offers the possibility to combine, manipulate and visualize mitochondrial data. It also provides tools for basic downstream analysis, e.g. PCA, Fst and haplogroup determination. 
+
+I began my studies in Tuebingen, where I received my BSc and MSc degrees, while also studying abroad at the University of Uppsala during my Masters.  
+
+Translated with www.DeepL.com/Translator
