@@ -22,5 +22,3 @@ This project involves the development of a mitochondrial workbench with a focus 
 Furthermore, it offers the possibility to combine, manipulate and visualize mitochondrial data. It also provides tools for basic downstream analysis, e.g. PCA, Fst and haplogroup determination. 
 
 I began my studies in Tuebingen, where I received my BSc and MSc degrees, while also studying abroad at the University of Uppsala during my Masters.  
-
-Translated with www.DeepL.com/Translator
