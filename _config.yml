@@ -207,7 +207,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single #Todo
+      layout: single
       author_profile: true
       share: true
       comments: true
