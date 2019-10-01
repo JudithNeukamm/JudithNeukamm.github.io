@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-Hi, I'm Judith, a PhD student in Bioinformatics at the [Institute of Evolutionary Medicine](http://www.iem.uzh.ch/en/research/researchgroups/ancientbiomoleculargroup.html) 
+Hi, I'm Judith, a PhD student in Bioinformatics at the [Institute of Evolutionary Medicine](https://www.iem.uzh.ch/en.html) 
 at the University of Zurich. 
 
 My research focuses on the analysis of the ancient metagenome, the investigation of genetic material obtained directly 
 from samples without applying any capturing or enrichment methods. I'm interested in the ancient oral metagenome in 
 particular, which provides a deeper insight into the microbial community that inhabits the human oral cavity. This 
-work also covers the study of ancient pathogens and viruses, e.g. Mycobacterium leprae, especially how they have evolved and migrated.
+work also covers the study of ancient pathogens and viruses, e.g. *Mycobacterium leprae*, especially how they have evolved and migrated.
   
 Another focus of my research is the analysis of human mitochondrial DNA, which is often used in population genetics. 
 This project involves the development of a mitochondrial workbench with a focus on the easy handling and conversion of files. 

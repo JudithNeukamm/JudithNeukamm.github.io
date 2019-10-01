@@ -1,7 +1,7 @@
 ---
-title: "DamageProfiler"
+title: "mitoBench"
 collection: software
-permalink: /software/damagerofiler
+permalink: /software/mitobench
 excerpt: 'This method can be used to calculate damage profiles of mapped ancient DNA reads. It calculates damage 
 profiles of mapped reads and provides a graphical as well as text based representation.'
 date: 2009-10-01
@@ -12,9 +12,9 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 Recommended citation: 
 
-Judith Neukamm, & Alexander Peltzer. (2017, November 21). Integrative-Transcriptomics/DamageProfiler (Version 0.3.13). 
-Zenodo. http://doi.org/10.5281/zenodo.1064063
+Alexander Peltzer, & Judith Neukamm. (2019, March 9). mitobench/MitoBench: mitoBench version 1.1-beta (Version v1.1-beta). 
+Zenodo. http://doi.org/10.5281/zenodo.2588120
 
 Available on Github:
 
-https://github.com/Integrative-Transcriptomics/DamageProfiler
+https://github.com/mitobench/MitoBench
