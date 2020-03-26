@@ -15,7 +15,7 @@ Education
   * Thesis: "Powergraphanalyse in BiNA"
 * M.S. in Bioinformatics, Eberhard-Karls-Universität Tübingen, 2015
   * Thesis: "Testing framework and improved algorithms for ancient genome reconstruction"
-* Ph.D in Bioinformatics, Eberhard-Karls-Universität Tübingen, 2019 (expected)
+* Ph.D in Bioinformatics, Eberhard-Karls-Universität Tübingen, 2020 (expected)
 
 
 Publications
