@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Bioinformatics, Eberhard-Karls-Universität Tübingen, 2013 
-  * Thesis: "Powergraphanalyse in BiNA"
+
+* Ph.D in Bioinformatics, Eberhard-Karls-Universität Tübingen, 2021 (expected)
 * M.S. in Bioinformatics, Eberhard-Karls-Universität Tübingen, 2015
   * Thesis: "Testing framework and improved algorithms for ancient genome reconstruction"
-* Ph.D in Bioinformatics, Eberhard-Karls-Universität Tübingen, 2020 (expected)
-
+* B.S. in Bioinformatics, Eberhard-Karls-Universität Tübingen, 2013
+  * Thesis: "Powergraphanalyse in BiNA"
 
 Publications
 ======

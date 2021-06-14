@@ -7,11 +7,10 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Software"
+    url: /software/
+
   - title: "CV"
     url: /cv/
