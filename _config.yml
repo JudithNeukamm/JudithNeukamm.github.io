@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Judith Neukamm's webpage"
 title_separator          : "-"
 name                     : &name "Judith Neukamm"
-description              : &description "PhD Student at University of Zurich, Zurich/Switzerland."
+description              : &description "PhD Student at University of Tübingen, Tübingen/Germany."
 url                      : https://JudithNeukamm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JudithNeukamm/JudithNeukamm.github.io"
@@ -80,10 +80,10 @@ author:
   name             : "Judith Neukamm"
   avatar           : "profile.jpeg"
   bio              : "PhD Student"
-  location         : "Zurich, Switzerland"
+  location         : "Winterthur, Switzerland"
   employer         : 
   googlescholar    : "https://scholar.google.de/citations?hl=en&user=kuDDrmAAAAAJ&view_op=list_works"
-  email            : "judith.neukamm (at) uzh (dot) ch"
+  email            : "judith.neukamm@gmx.net"
   uri              : 
   bitbucket        :
   codepen          :
@@ -96,8 +96,8 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/judith-neukamm-b7b491a7/"
+  orcid            : "https://orcid.org/0000-0001-8141-566X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -215,6 +215,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _software
+  - scope:
+      path: ""
+      type: software
     values:
       layout: single
       author_profile: true
