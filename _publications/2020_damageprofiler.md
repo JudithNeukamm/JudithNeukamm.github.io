@@ -2,7 +2,7 @@
 title: "DamageProfiler: fast damage pattern calculation for ancient DNA."
 collection: publications
 permalink: /publication/2020_damageprofiler
-date: 2021-10-01
+date: 2020-10-01
 venue: 'BioRxiv'
 ---
 
